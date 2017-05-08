@@ -1,0 +1,6 @@
+packages: [
+  "atom-beautify"
+  "git-control"
+  "language-babel"
+  "package-sync"
+]

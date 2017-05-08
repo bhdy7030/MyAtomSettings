@@ -1,0 +1,7 @@
+"*":
+  "atom-beautify":
+    jsx: {}
+  editor:
+    fontSize: 13
+  "exception-reporting":
+    userId: "19040588-f662-42f8-92bf-d5d16bd19db8"
